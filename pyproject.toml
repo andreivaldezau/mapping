@@ -8,6 +8,11 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.13"
+requests = "^2.32.3"
+osmapi = "^4.2.0"
+overpy = "^0.7"
+geopandas = "^1.0.1"
+folium = "^0.19.0"
 
 
 [build-system]
